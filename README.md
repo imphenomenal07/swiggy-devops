@@ -9,4 +9,4 @@ Terraform, AWS, Github, Docker, Kubernetes, Jenkins, Trivy, SonarQube & Owasp
 
 Terraform ➡️ AWS ➡️ GitHub ➡️ Jenkins ➡️ SonarQube ➡️ Owasp ➡️ Trivy ➡️ Docker Image ➡️ Trivy ➡️ Docker Conatiner ➡️ Final App
 
-<img width="1918" height="1041" alt="swiggy pipeline flow" src="https://github.com/user-attachments/assets/e3ca0be6-c9f4-448f-ad35-c9335ac8c81f" />
+<img width="1918" height="1041" alt="Swiggy DevOps pipeline" src="https://github.com/user-attachments/assets/0a4125d7-5a32-4211-b023-dcfe353593a4" />
