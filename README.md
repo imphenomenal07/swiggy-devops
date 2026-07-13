@@ -4,7 +4,7 @@ This repository contains the codebase and infrastructure configuration for the S
 
 # Tech Stack:
 
-Terraform, AWS, Github, Docker, Kubernetes, Jenkins, Trivy, SonarQube & Owasp
+**Terraform**, **AWS**, **Github**, **Docker**, **Kubernetes**, **Jenkins**, **Trivy**, **SonarQube** & **Owasp**
 
 # Pipeline flow
 
